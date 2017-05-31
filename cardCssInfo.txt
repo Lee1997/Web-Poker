@@ -1,3 +1,0 @@
-<div id="card1" style="width: 98px; height: 142.5px; border: 1px solid black; border-radius: 6px; padding: 0; margin: 0;">
-    <img id="testCard" style="max-width: 100px; max-height: 142.5px; padding: 0; margin: 0;"/>
-  </div>
