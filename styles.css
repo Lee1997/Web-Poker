@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: green;
+}
+
+#gameArea{
+  border: 2px solid black;
+  width: 80%;
+  height: 45em;
+  margin: 0 auto;
+  margin-top: 4em;
+  display: flex;
+  position: relative;
+}
+
+.info{
+  width: 30em;
+  margin: 0;
+}
+
+#gameInformation{
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+}
+
+#controlBox {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+}
+
+#myCards{
+  align-self: flex-end;
+  margin: 0 auto;
+  display: flex;
+  width: 100%;
+  align-items: row;
+  justify-content: space-between;
+
+}
+
+.myCard {
+  border: 2px solid red;
+  border-radius: 6px;
+  max-width: 100px;
+  max-height: 142.5px;
+  padding: 0;
+  margin: 0;
+}
+
+#player1Cards{
+  align-self: flex-start;
+  margin: 0 auto;
+  display: flex;
+  width: 100%;
+  align-items: row;
+  justify-content: space-between;
+  position: absolute;
+}
