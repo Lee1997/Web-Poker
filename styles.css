@@ -78,10 +78,8 @@ body {
   position: absolute;
   flex-direction: column;
   padding: 0;
-  width: 96.5%;
-  height: 100%;
-  margin-right: 300px;
   margin-top: 23px;
+  margin-left: 92.5%;
 }
 
 #player2Cards > .card {
